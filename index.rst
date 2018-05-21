@@ -1,5 +1,6 @@
-﻿|image0|
---------
+﻿+----------+
+| |image0| |
++----------+
  
 ############################################################################################
 Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Rendicondazione
@@ -26,5 +27,3 @@ Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Ren
    _docs/APPENDICE_1.rst
 
 .. |image0| image:: _docs/media/image1.png
-   :width: 4.05in
-   :height: 0.89306in
