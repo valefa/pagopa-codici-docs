@@ -2,13 +2,13 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Specifiche_Attuative_Pagamenti_1_3_1"
+settings_project_name = "pagoPA Codici 1_3_1"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
 settings_doc_release = 'version: latest'
-settings_basename = 'Specifiche_Attuative_Pagamenti_1_3_1'
-settings_file_name = 'Specifiche_Attuative_Pagamenti_1_3_1'
+settings_basename = 'pagoPA_Codici_1_3_1'
+settings_file_name = 'pagoPA_Codici_1_3_1'
 
 # -- No need to change below here
 
