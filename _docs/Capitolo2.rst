@@ -14,8 +14,8 @@
 .. _generazione-dellidentificativo-univoco-di-versamento:
 
 
-2. **Generazione dell’Identificativo Univoco di Versamento**          |image1|
-============================================================
+2. Generazione dell’Identificativo Univoco di Versamento          |image1|
+========================================================
 
 Secondo quanto definito nel `paragrafo 7.1 delle Linee guida.  <http://www.agid.gov.it/sites/default/files/linee_guida/lineeguidapagamenti_v_1_1_0_0.pdf>`_ 
  
