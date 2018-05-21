@@ -13,8 +13,8 @@
 
 .. _Premessa:
 
-**Premessa**
-============
+Premessa
+========
 
 Il decreto-legge 18 ottobre 2012, n. 179 convertito, con modificazioni,
 dalla legge 17 dicembre 2012, n. 221, ha introdotto importanti norme

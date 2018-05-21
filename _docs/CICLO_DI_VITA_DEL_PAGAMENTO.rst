@@ -13,8 +13,8 @@
 
 .. _ciclo-di-vita-del-pagamento:
 
-**Ciclo di vita del pagamento**
-===============================
+Ciclo di vita del pagamento
+===========================
 
 Nell’ambito delle relazioni tra utilizzatore finale ed enti creditori,
 la necessità di effettuare pagamenti a favore di questi ultimi è sempre

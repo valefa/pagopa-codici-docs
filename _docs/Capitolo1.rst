@@ -14,8 +14,8 @@
 
 .. _siti-web-degli-enti-creditori:
 
-1. **Siti web Degli Enti Creditori**
-====================================
+Siti web Degli Enti Creditori
+=============================
 
 Una volta manifestatasi l’esigenza del pagamento (:ref:`vedi capitolo “Ciclo
 di vita del pagamento” <ciclo-di-vita-del-pagamento>`), gli Enti Creditori devono consentire agli
