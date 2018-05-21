@@ -36,5 +36,3 @@ composizione dell’operazione di trasferimento fondi, mentre nel capitolo
 sono oggetto di un riversamento cumulativo.
 
 .. |image0| image:: media/image1.png
-   :width: 4.05in
-   :height: 0.89306in

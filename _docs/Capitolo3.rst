@@ -115,5 +115,3 @@ all’imputazione della disposizione di accredito (SCT).
 
 
 .. |image0| image:: media/image1.png
-   :width: 4.05in
-   :height: 0.89306in

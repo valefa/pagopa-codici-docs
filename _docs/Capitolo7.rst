@@ -336,8 +336,7 @@ Esempi: **2015-07-15xxxxxxxx-0000000001**
 
 
 .. |image0| image:: media/image1.png
-   :width: 4.05in
-   :height: 0.89306in
+
 .. |image17| image:: media/image7.png
    :width: 0.7874in
    :height: 0.22905in

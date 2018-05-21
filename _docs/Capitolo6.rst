@@ -59,8 +59,7 @@ riversamento, si rimanda a quanto :ref:`indicato al § 5.1 <specificità-per-il-
 
 
 .. |image0| image:: media/image1.png
-   :width: 4.05in
-   :height: 0.89306in
+
 .. |image4| image:: media/image7.png
    :width: 0.7874in
    :height: 0.22905in

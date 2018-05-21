@@ -26,5 +26,3 @@ che lo stesso PSP deve mettere a disposizione dell'Ente Creditore ai
 fini della rendicontazione e riconciliazione dei pagamenti.
 
 .. |image0| image:: media/image1.png
-   :width: 4.05in
-   :height: 0.89306in
