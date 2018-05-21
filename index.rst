@@ -1,4 +1,5 @@
-﻿|image0|
+﻿|image0.png|
+------------
  
 ############################################################################################
 Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Rendicondazione
