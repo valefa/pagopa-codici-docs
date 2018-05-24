@@ -14,7 +14,7 @@
 .. _flusso-di-rendicontazione:
 
 7. Flusso di Rendicontazione  |image17|
-----------------------------
+============================
 
 Le informazioni che devono essere messe a disposizione dell'Ente
 Creditore sono organizzate in flussi omogenei di dati e devono essere
