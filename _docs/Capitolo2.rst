@@ -499,7 +499,6 @@ alfanumerico> dovrà essere costante nel corso del tempo.
 .. |AGID_logo_carta_intestata-02.png| image:: media/header.png
    :width: 5.90551in
    :height: 1.30277in
-
 .. |image1| image:: media/image5.png
    :width: 0.7874in
    :height: 0.24059in
