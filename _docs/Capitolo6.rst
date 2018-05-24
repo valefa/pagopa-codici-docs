@@ -1,4 +1,5 @@
 ﻿
+|AGID_logo_carta_intestata-02.png|
 
 +---------------------------------------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
@@ -58,8 +59,9 @@ Marca da bollo digitale, per i quali non è necessario effettuare alcun
 riversamento, si rimanda a quanto :ref:`indicato al § 5.1 <specificità-per-il-pagamento-della-marca-da-bollo-digitale>`.
 
 
-.. |image0| image:: media/image1.png
-
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
 .. |image4| image:: media/image7.png
    :width: 0.7874in
    :height: 0.22905in

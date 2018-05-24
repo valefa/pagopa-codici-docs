@@ -1,5 +1,6 @@
 ﻿
-
+|AGID_logo_carta_intestata-02.png|
+   
 +---------------------------------------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
 |                                                                                                   |
@@ -14,7 +15,7 @@
 .. _flusso-di-rendicontazione:
 
 7. Flusso di Rendicontazione  |image17|
-----------------------------
+============================
 
 Le informazioni che devono essere messe a disposizione dell'Ente
 Creditore sono organizzate in flussi omogenei di dati e devono essere
@@ -335,8 +336,9 @@ Esempi: **2015-07-15xxxxxxxx-0000000001**
 **2015-07-15xxxxxxxx-hh_mm_ss_nnn**
 
 
-.. |image0| image:: media/image1.png
-
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
 .. |image17| image:: media/image7.png
    :width: 0.7874in
    :height: 0.22905in

@@ -1,4 +1,6 @@
 ﻿
+|AGID_logo_carta_intestata-02.png|
+   
 ############################################################################################
 Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Rendicondazione
 ############################################################################################
@@ -23,4 +25,7 @@ Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Ren
    _docs/SEZIONE_II_-_COMPOSIZIONE_DEI_CODICI_PER_IL_RIVERSAMENTO_E_LA_RENDICONTAZIONE.rst
    _docs/APPENDICE_1.rst
 
-.. |image0| image:: _docs/media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: _docs/media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
+   

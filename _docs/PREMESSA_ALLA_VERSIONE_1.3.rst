@@ -1,5 +1,6 @@
 ﻿
-
+|AGID_logo_carta_intestata-02.png|
+   
 +---------------------------------------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
 |                                                                                                   |
@@ -90,8 +91,9 @@ graficamente come segue:
 |                                   | rappresentata.                    |
 +-----------------------------------+-----------------------------------+
 
-.. |image0| image:: media/image1.png
-
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
 .. |image5| image:: media/image4.png
    :width: 0.7874in
    :height: 0.24059in

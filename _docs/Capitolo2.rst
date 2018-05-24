@@ -1,4 +1,5 @@
 ﻿
+|AGID_logo_carta_intestata-02.png|
 
 +---------------------------------------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
@@ -495,8 +496,9 @@ alfanumerico> dovrà essere costante nel corso del tempo.
    `http://www.jknc.eu/RFcalculator <http://www.jknc.eu/RFcalculator>`__
 
 
-.. |image0| image:: media/image1.png
-
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
 .. |image1| image:: media/image5.png
    :width: 0.7874in
    :height: 0.24059in
