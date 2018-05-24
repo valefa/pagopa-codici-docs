@@ -305,11 +305,9 @@ solamente se il "punto di generazione del codice IUV" sia unico. Lo
 schema (NAV.0) evidenzia la composizione da utilizzare per il numero
 avviso:
 
-+-----------------------------------+-----------------------------------+
-| **0<application code (2n)><IUV    | **(NAV.0)**                       |
-| base (13n)><IUV check digit       |                                   |
-| (2n)>**                           |                                   |
-+-----------------------------------+-----------------------------------+
++------------------------------------------------------------------------+----------------------+
+| **0<application code (2n)><IUV base (13n)><IUV check digit (2n)>**     | **(NAV.0)**          |
++------------------------------------------------------------------------+----------------------+
 
 L'Ente Creditore può prevedere più porzioni dell’Archivio dei Pagamenti
 in Attesa (APA), mentre la composizione del codice IUV è definita dallo
