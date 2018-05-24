@@ -1,4 +1,5 @@
 ﻿
+|AGID_logo_carta_intestata-02.png|
 
 +---------------------------------------------------------------------------------------------------+
 | **SPECIFICHE ATTUATIVE DEI CODICI IDENTIFICATIVI DI VERSAMENTO, RIVERSAMENTO E RENDICONTAZIONE**  |
@@ -35,4 +36,7 @@ composizione dell’operazione di trasferimento fondi, mentre nel capitolo
 5 saranno date istruzioni per la riconciliazione dei pagamenti che non
 sono oggetto di un riversamento cumulativo.
 
-.. |image0| image:: media/image1.png
+.. |AGID_logo_carta_intestata-02.png| image:: media/header.png
+   :width: 5.90551in
+   :height: 1.30277in
+   
