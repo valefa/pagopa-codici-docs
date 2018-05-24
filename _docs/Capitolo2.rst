@@ -69,7 +69,7 @@ secondo due diverse modalità:
 Nel primo caso (avviso analogico o digitale), in cui il pagamento può
 essere eseguito attraverso i canali messi a disposizione dai PSP 
 (`cfr. § 2.2 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo2.html#processo-di-pagamento-attivato-presso-il-psp>`_), 
-si rinvia al successivo § 0.
+si rinvia  :ref:`al successivo § 2.2 <numero-avviso-e-codice-IUV-pagamenti-presso-psp>`.
 
 Nella seconda eventualità, associata ai pagamenti attivati preso l'Ente
 Creditore (`cfr. § 2.1 delle SANP <http://pagopa-specifichepagamenti.readthedocs.io/it/latest/_docs/Capitolo2.html#processo-di-pagamento-attivato-presso-lente-creditore>`_), si rimanda :ref:`al successivo § 2.3 <codice-iuv-caso-pagamenti-ente-creditore>`. Si
