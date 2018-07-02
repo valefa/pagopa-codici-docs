@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*-
 
 # -- PROJECT Variables ----------------------------------------------------
-settings_project_name = "Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Rendicondazione"
+settings_project_name = "Specifiche Attuative dei Codici Identificativi di Versamento, Riversamento e Rendicontazione"
 settings_copyright_copyleft = 'AgID - Team Digitale'
 settings_editor_name = 'AgID - Team Digitale'
 settings_doc_version = 'version: latest'
